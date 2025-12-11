@@ -1,5 +1,4 @@
-# 💫 About Me:
-📚 Sou estudante de Sistema de Informações<br>🔍💻Estou a procura de Estágio na área de Tecnologia<br>☕Iniciando em Java<br>🐍Estudo Python
+
 
 
 ## 🌐 Socials:
