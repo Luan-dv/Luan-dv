@@ -157,20 +157,7 @@ local: Brasil 🇧🇷
 
 <!-- ===== SNAKE ANIMATION ===== -->
 <!-- Para usar a snake animation, crie uma GitHub Action no seu perfil -->
-<!-- Instruções: https://github.com/Platane/snk -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luan-dv/Luan-dv/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luan-dv/Luan-dv/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Luan-dv/Luan-dv/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
+<!-- Instruções: https://github.com/Platane/snk 
 <!-- ===== VISITANTES ===== -->
 
 <div align="center">
