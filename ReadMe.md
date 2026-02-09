@@ -42,11 +42,6 @@ local: Brasil 🇧🇷
 
 - 🔭 &nbsp; Focado em **Backend**, **APIs RESTful** e **Arquitetura de Software**
 - 🛠️ &nbsp; Trabalho diariamente com **Node.js**, **NestJS** e **TypeScript**
-- 🗃️ &nbsp; Experiência com **MySQL**, **PostgreSQL** e **Prisma ORM**
-- 🐳 &nbsp; Utilizo **Docker** para ambientes de desenvolvimento e deploy
-- 📐 &nbsp; Pratico **Clean Architecture**, **SOLID** e **Design Patterns**
-- 🌱 &nbsp; Estudando continuamente **C# / .NET** e novas tecnologias
-- ⚡ &nbsp; Fun fact: Café ☕ é meu compilador favorito
 
 <br clear="both"/>
 
