@@ -40,9 +40,6 @@ foco: Typescript, Node.js, NestJS e Arquitetura Limpa
 local: Brasil 🇧🇷
 ```
 
-- 🔭 &nbsp; Focado em **Backend**, **APIs RESTful** e **Arquitetura de Software**
-- 🛠️ &nbsp; Trabalho diariamente com **Node.js**, **NestJS** e **TypeScript**
-
 <br clear="both"/>
 
 ---
