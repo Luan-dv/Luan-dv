@@ -1,14 +1,18 @@
+<!-- ===== GITHUB PROFILE README ===== -->
+<!-- Troque "SeuNome" pelo seu username do GitHub em TODOS os lugares abaixo -->
+<!-- Troque "SeuLinkedIn" pelo seu username do LinkedIn -->
+<!-- Troque "seuemail@email.com" pelo seu email real -->
 
 <div align="center">
 
 <!-- ===== HEADER / APRESENTAÇÃO ===== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Olá,%20eu%20sou%20o%Luan Santos%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Olá,%20eu%20sou%20o%20Luan Santos%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
 
 <br/>
 
 <!-- Badge de destaque -->
-<a href="https://github.com/Luan-dv">
+<a href="https://github.com/Luan Santos">
   <img src="https://img.shields.io/badge/Desenvolvedor_Backend-0ea5e9?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend Developer" />
 </a>
 
@@ -93,18 +97,18 @@ local: Brasil 🇧🇷
 <br/>
 
 <a href="https://github.com/Luan-dv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuNome&show_icons=true&theme=transparent&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9&hide_border=true&ring_color=0ea5e9" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luab-dv&show_icons=true&theme=transparent&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9&hide_border=true&ring_color=0ea5e9" alt="GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Luan-dv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNome&layout=compact&theme=transparent&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&hide_border=true" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-dv&layout=compact&theme=transparent&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&hide_border=true" alt="Top Langs" />
 </a>
 
 <br/><br/>
 
 <!-- GitHub Streak -->
 <a href="https://github.com/Luan-dv">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeuNome&theme=transparent&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luan-dv&theme=transparent&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&hide_border=true" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -121,7 +125,7 @@ local: Brasil 🇧🇷
 <br/>
 
 <a href="https://github.com/Luan-dv">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeuNome&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=c9d1d9&area=true&area_color=0ea5e9&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luan-dv&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=c9d1d9&area=true&area_color=0ea5e9&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" alt="Contribution Graph" />
 </a>
 
 </div>
@@ -158,9 +162,9 @@ local: Brasil 🇧🇷
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeuNome/SeuNome/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeuNome/SeuNome/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/SeuNome/SeuNome/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luan-dv/Luan-dv/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luan-dv/Luan-dv/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Luan-dv/Luan-dv/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -171,7 +175,7 @@ local: Brasil 🇧🇷
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SeuNome&color=0ea5e9&style=for-the-badge&label=VISITANTES" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Luan-dv&color=0ea5e9&style=for-the-badge&label=VISITANTES" alt="Profile views" />
 
 <br/><br/>
 
