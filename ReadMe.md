@@ -33,10 +33,12 @@
 
 <!-- Personalize o texto abaixo com suas informações -->
 
-> **Nome:** Luan Santos  
-> **Cargo:** Desenvolvedor Backend  
-> **Foco:** Typescript, Node.js, NestJS e Arquitetura Limpa  
-> **Local:** Brasil 🇧🇷
+```yaml
+nome: Luan Santos
+cargo: Desenvolvedor Backend
+foco: Typescript, Node.js, NestJS e Arquitetura Limpa
+local: Brasil 🇧🇷
+```
 
 <br clear="both"/>
 
