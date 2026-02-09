@@ -97,7 +97,7 @@ local: Brasil 🇧🇷
 <br/>
 
 <a href="https://github.com/Luan-dv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luab-dv&show_icons=true&theme=transparent&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9&hide_border=true&ring_color=0ea5e9" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-dv&show_icons=true&theme=transparent&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9&hide_border=true&ring_color=0ea5e9" alt="GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Luan-dv">
