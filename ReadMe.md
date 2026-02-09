@@ -7,8 +7,6 @@
 
 <!-- ===== HEADER / APRESENTAÇÃO ===== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Olá,%20eu%20sou%20o%20Luan Santos%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
-
 <br/>
 
 <!-- Badge de destaque -->
