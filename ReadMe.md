@@ -90,20 +90,6 @@ local: Brasil 🇧🇷
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<br/>
-
-<a href="https://github.com/Luan-dv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-dv&show_icons=true&theme=transparent&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9&hide_border=true&ring_color=0ea5e9" alt="GitHub Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Luan-dv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-dv&layout=compact&theme=transparent&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&hide_border=true" alt="Top Langs" />
-</a>
-
-<br/><br/>
-
 <!-- GitHub Streak -->
 <a href="https://github.com/Luan-dv">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luan-dv&theme=transparent&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&hide_border=true" alt="GitHub Streak" />
