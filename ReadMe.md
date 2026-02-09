@@ -3,7 +3,7 @@
 
 <!-- ===== HEADER / APRESENTAÇÃO ===== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Olá,%20eu%20sou%20o%20SeuNome%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Olá,%20eu%20sou%20o%Luan Santos%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 <!-- Personalize o texto abaixo com suas informações -->
 
 ```yaml
-nome: Luan dos Santos Alves
+nome: Luan Santos
 cargo: Desenvolvedor Backend
 foco: Typescript, Node.js, NestJS e Arquitetura Limpa
 local: Brasil 🇧🇷
@@ -78,7 +78,6 @@ local: Brasil 🇧🇷
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=0ea5e9" alt="GitHub" />&nbsp;
 <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=0ea5e9" alt="C#" />&nbsp;
 <img src="https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=0ea5e9" alt=".NET" />&nbsp;
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=0ea5e9" alt="Linux" />&nbsp;
 
 </div>
 
@@ -144,7 +143,7 @@ local: Brasil 🇧🇷
 <a href="https://linkedin.com/in/luan-santos-alves" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn" />
 </a>&nbsp;
-<a href="mailto:luansantosdev7@email.com" target="_blank">
+<a href="mailto:luansantosdev7@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=0ea5e9" alt="Email" />
 </a>&nbsp;
 
