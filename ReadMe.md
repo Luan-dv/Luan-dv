@@ -12,7 +12,7 @@
 <br/>
 
 <!-- Badge de destaque -->
-<a href="https://github.com/Luan Santos">
+<a href="https://github.com/Luan-dv">
   <img src="https://img.shields.io/badge/Desenvolvedor_Backend-0ea5e9?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend Developer" />
 </a>
 
